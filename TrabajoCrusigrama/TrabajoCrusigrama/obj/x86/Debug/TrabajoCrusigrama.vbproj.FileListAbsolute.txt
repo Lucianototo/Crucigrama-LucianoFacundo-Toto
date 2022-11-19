@@ -1,0 +1,9 @@
+c:\users\hit96\documents\visual studio 2010\Projects\TrabajoCrusigrama\TrabajoCrusigrama\bin\Debug\TrabajoCrusigrama.exe
+c:\users\hit96\documents\visual studio 2010\Projects\TrabajoCrusigrama\TrabajoCrusigrama\bin\Debug\TrabajoCrusigrama.pdb
+c:\users\hit96\documents\visual studio 2010\Projects\TrabajoCrusigrama\TrabajoCrusigrama\bin\Debug\TrabajoCrusigrama.xml
+c:\users\hit96\documents\visual studio 2010\Projects\TrabajoCrusigrama\TrabajoCrusigrama\obj\x86\Debug\TrabajoCrusigrama.Form1.resources
+c:\users\hit96\documents\visual studio 2010\Projects\TrabajoCrusigrama\TrabajoCrusigrama\obj\x86\Debug\TrabajoCrusigrama.Resources.resources
+c:\users\hit96\documents\visual studio 2010\Projects\TrabajoCrusigrama\TrabajoCrusigrama\obj\x86\Debug\TrabajoCrusigrama.vbproj.GenerateResource.Cache
+c:\users\hit96\documents\visual studio 2010\Projects\TrabajoCrusigrama\TrabajoCrusigrama\obj\x86\Debug\TrabajoCrusigrama.exe
+c:\users\hit96\documents\visual studio 2010\Projects\TrabajoCrusigrama\TrabajoCrusigrama\obj\x86\Debug\TrabajoCrusigrama.xml
+c:\users\hit96\documents\visual studio 2010\Projects\TrabajoCrusigrama\TrabajoCrusigrama\obj\x86\Debug\TrabajoCrusigrama.pdb
